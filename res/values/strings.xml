@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">DroidSniff</string>
-    <string name="license">DroidSniff comes with absolutely no warranty.\n\nYou use this software on your own risk.\nThe developer is not responsible for any damages caused by DroidSniff or it´s usage.\nIt´s only the users responsibility to check his countrys laws in order to make sure that the usage of DroidSniff is permitted by law in his country. In some countries stealing someones identity might be prohibited by law.\n\nAlways think about what you´re doing! Stealing someons identity can cause real trouble for him and maybe for you</string>
+    <string name="app_name">DroidSniff2</string>
+    <string name="license">DroidSniff2 comes with absolutely no warranty.\n\nYou use this software on your own risk.\nThe developer is not responsible for any damages caused by DroidSniff or it´s usage.\nIt´s only the users responsibility to check his countrys laws in order to make sure that the usage of DroidSniff is permitted by law in his country. In some countries stealing someones identity might be prohibited by law.\n\nAlways think about what you´re doing! Stealing someons identity can cause real trouble for him and maybe for you</string>
     <string name="unrooted">YOUR PHONE SEEMS NOT TO BE ROOTED\n\nDroidSniff can only run on phones having superuser access enabled. So if the phone is not rooted and DroidSniff does not work properly, please do not ask for support! Nevertheless, DroidSniff will start for compatibility reasons</string>
     <string name="button_stop">Stop</string>
 	<string name="button_start">Start</string>

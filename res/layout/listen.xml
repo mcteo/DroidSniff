@@ -32,13 +32,13 @@
         android:textSize="13dip"
         android:textStyle="bold" />
 
-    <com.evozi.droidsniff.objects.SessionListView
+    <com.evozi.droidsniff2.objects.SessionListView
         android:id="@+id/sessionlist"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_weight="1.0"
         android:divider="#FFCC00" >
-    </com.evozi.droidsniff.objects.SessionListView>
+    </com.evozi.droidsniff2.objects.SessionListView>
 
     <LinearLayout
         android:id="@+id/linearLayout1"
